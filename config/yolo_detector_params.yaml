@@ -1,0 +1,8 @@
+yolo_detector_node:
+  ros__parameters:
+    image_topic: "/world/default/model/x500_mono_cam_0/link/camera_link/sensor/imager/image"
+    model_path: "yolov8n.pt"
+    confidence_threshold: 0.5
+    resize_scale: 0.5
+    log_every_n_frames: 30
+    show_window: true

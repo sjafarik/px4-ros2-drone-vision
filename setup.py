@@ -40,6 +40,7 @@ setup(
             'image_view_node = drone_vision_py.image_view_node:main',
             'image_processor = drone_vision_py.image_processor:main',
             'color_detector = drone_vision_py.color_detector:main',
+            'yolo_detector = drone_vision_py.yolo_detector:main',
         ],
     },
 )
