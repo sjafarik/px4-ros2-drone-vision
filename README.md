@@ -1,21 +1,3 @@
-Excellent place to finish Version 1.
-
-Your new repo now has a stronger story than the old one, so the README should center on:
-
-* waypoint autonomy foundation
-* camera integration in Gazebo
-* ROS2 image bridge
-* OpenCV processing
-* color detection
-* YOLO detection
-
-I’d present the waypoint mission as the autonomy base, and the vision stack as the new main focus.
-
-Below is a polished README you can use and then adjust filenames like screenshots/GIF names to match your repo.
-
----
-
-````markdown
 # 🚁 PX4 ROS2 Drone Vision
 
 ## 📌 Project Overview
@@ -41,8 +23,6 @@ The system is designed with a modular robotics architecture: low-level PX4 fligh
 
 ### YOLO detection
 ![YOLO Detection](docs/yolo_detection.png)
-
-> Replace the filenames above with your actual demo GIF / screenshot names.
 
 ---
 
@@ -424,7 +404,3 @@ This project demonstrates a complete **PX4 + ROS2 drone vision pipeline** in sim
 * YOLO-based object detection
 
 It serves as a strong foundation for future work in perception-driven autonomy, tracking, and intelligent drone behavior.
-
-````
-
----
