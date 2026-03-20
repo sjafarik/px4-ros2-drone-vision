@@ -1,0 +1,9 @@
+image_processor_node:
+  ros__parameters:
+    image_topic: "/world/default/model/x500_mono_cam_down_0/link/camera_link/sensor/imager/image"
+    display_original: true
+    display_processed: true
+    log_every_n_frames: 30
+    blur_kernel_size: 5
+    canny_threshold1: 80
+    canny_threshold2: 150

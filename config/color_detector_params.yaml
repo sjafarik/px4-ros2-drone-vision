@@ -1,0 +1,13 @@
+color_detector_node:
+  ros__parameters:
+    image_topic: "/world/default/model/x500_mono_cam_down_0/link/camera_link/sensor/imager/image"
+    resize_scale: 0.3
+    log_every_n_frames: 30
+    min_contour_area: 300
+
+    lower_h: 100
+    lower_s: 150
+    lower_v: 50
+    upper_h: 140
+    upper_s: 255
+    upper_v: 255

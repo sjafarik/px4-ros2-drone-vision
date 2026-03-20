@@ -1,0 +1,5 @@
+image_view_node:
+  ros__parameters:
+    image_topic: "/world/default/model/x500_mono_cam_down_0/link/camera_link/sensor/imager/image"
+    show_image: true
+    log_every_n_frames: 1
