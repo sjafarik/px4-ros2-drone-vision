@@ -19,7 +19,7 @@ The system is designed with a modular robotics architecture: low-level PX4 fligh
 ## 🎥 Demo
 
 ### Autonomous mission + color detection
-![Color Detection Demo](https://raw.githubusercontent.com/sjafarik/px4-ros2-drone-vision/main/docs/demo.gif)
+![Color Detection Demo](https://github.com/sjafarik/px4-ros2-drone-vision/blob/main/docs/color_detection_demo.gif)
 
 ### YOLO detection
 ![YOLO Detection](docs/yolo_detection.png)
